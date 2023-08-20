@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.proficad.viewer" android:versionCode="12" android:versionName="1.7">
+	<uses-sdk android:minSdkVersion="26" android:targetSdkVersion="31" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<application android:label="ProfiCAD Viewer" android:icon="@drawable/icon"></application>
+</manifest>

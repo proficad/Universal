@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>7f8b01f8-5173-49b4-8eb1-a82d14f5d693</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>App8</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)About.xaml.cs">
+      <DependentUpon>About.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Attribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\CableSymbol.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\CollPages.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\DrawDoc.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\DrawObj.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\DrawPoly.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\DrawRect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\EFont.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Enums.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\FreeText.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Helper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Image.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\ImageDesc.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Insert.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Layer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\MFC_Types\MyLogBrush.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\MFC_Types\MyLogPen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\MyRect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\ObjColors.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\ObjProps.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Outlet.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\PagePrintSettings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\PageSizeSettings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\PCadDoc.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\PositionAspect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\PpdDoc.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\PrintSettings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Program.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\PtbDoc.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\PtbPosition.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QCircle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QDimCircle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QDimLine.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QDimStyle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QFontsCollection.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QGate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QIC.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QLabel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QLin.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QLink.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QLinkWire.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QPaperSize.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QPivot.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\QSummInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\RefGrid.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Repo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\SettingsNumberingWire.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\SettingsPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\SettingsPrinter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Trafo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\TrafoWinding.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\UtilsMath.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Core\Wire.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Drawer\Drawer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Drawer\DrawerGate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Drawer\DrawerImage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Drawer\DrawerQic.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Drawer\DrawerText.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Drawer\DrawerTrafo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Drawer\DrawerWire.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ListOfPages.xaml.cs">
+      <DependentUpon>ListOfPages.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Loader\ContextP2A.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Loader\DrawerContext.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Loader\Helper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Loader\HelperRefGrid.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Loader\Loader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Loader\VersionPre5.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Core\WireLabelPos.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)ListOfPages.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)About.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,145 @@
+0000000000000000000000000000000000000000 7db0d45bee3241271c5472b1bccdc4e239cca28a vjedlicka <proficad@gmail.com> 1505983581 +0200	commit (initial): Přidat .gitignore a .gitattributes
+7db0d45bee3241271c5472b1bccdc4e239cca28a f613e610d2574888346bfe65bbd8de621b72a85a vjedlicka <proficad@gmail.com> 1505983584 +0200	commit: Přidejte soubory projektu.
+f613e610d2574888346bfe65bbd8de621b72a85a bb2bc5e1f9acb7d404a5d5b5efd65c7f794e51c6 vjedlicka <proficad@gmail.com> 1505993020 +0200	commit: init
+bb2bc5e1f9acb7d404a5d5b5efd65c7f794e51c6 2182dc9edb823bd5979f799e7779b51ba422f520 vjedlicka <proficad@gmail.com> 1506009205 +0200	commit: added core, loader and drawer
+2182dc9edb823bd5979f799e7779b51ba422f520 871171aeb8d2ede2bde247e32526d8492456a5c6 vjedlicka <proficad@gmail.com> 1506019788 +0200	commit: loads document from assets folder
+871171aeb8d2ede2bde247e32526d8492456a5c6 2fb017df52674f4c7d91cadb31465dd175f06bc0 vjedlicka <proficad@gmail.com> 1506063936 +0200	commit: document gets drawn (althou with wrong colors
+2fb017df52674f4c7d91cadb31465dd175f06bc0 11887b3ab57736787ba96f2ec4ba7c67ae8c4544 vjedlicka <proficad@gmail.com> 1506069010 +0200	commit: pan pinch tap work!!!
+11887b3ab57736787ba96f2ec4ba7c67ae8c4544 a889c6ac41c7ecfcdee048228fda2c51db501c6f vjedlicka <proficad@gmail.com> 1506262137 +0200	commit: converted Xamarin.Forms.Color to System.Drawing.Color
+a889c6ac41c7ecfcdee048228fda2c51db501c6f 34b2bc65d4e8f47d16d5a62390ca3e808dee6fdd vjedlicka <proficad@gmail.com> 1506267121 +0200	commit: stroke caps and line drawing improvements
+34b2bc65d4e8f47d16d5a62390ca3e808dee6fdd 51bc9691a9daeda8dcd883b55845d333ba2ee9fb vjedlicka <proficad@gmail.com> 1506414211 +0200	commit: drawing free text
+51bc9691a9daeda8dcd883b55845d333ba2ee9fb 9af1609a1213b1f8104e170b96edfd187d151da7 vjedlicka <proficad@gmail.com> 1506434902 +0200	commit: added 2nd activity
+9af1609a1213b1f8104e170b96edfd187d151da7 65d673e2966197ab69859693ee2f32e4fec27ae0 vjedlicka <proficad@gmail.com> 1506448098 +0200	commit: moved intent filter to the main activity
+65d673e2966197ab69859693ee2f32e4fec27ae0 822c39730e57683f787b28e52c91cd280e3b2e0a vjedlicka <proficad@gmail.com> 1506761640 +0200	commit: updated intent filter (but not sure it is useful
+822c39730e57683f787b28e52c91cd280e3b2e0a 7a7e803468a23f5b6a4e4d2819ebdfc7041c8693 vjedlicka <proficad@gmail.com> 1506761652 +0200	commit: updated icon
+7a7e803468a23f5b6a4e4d2819ebdfc7041c8693 ed59e7130c40cdff8ca2f5bdc07fee86099e43e3 vjedlicka <proficad@gmail.com> 1506792760 +0200	commit: dashed line
+ed59e7130c40cdff8ca2f5bdc07fee86099e43e3 e1bc795a57c170eb9872d0d06d8e387bc3963041 vjedlicka <proficad@gmail.com> 1506959170 +0200	commit: dvoubarevné spoje
+e1bc795a57c170eb9872d0d06d8e387bc3963041 d1b6fc49d3e1fc5e8012946cdc8051687c9d91fa vjedlicka <proficad@gmail.com> 1506961308 +0200	commit: draw polygon
+d1b6fc49d3e1fc5e8012946cdc8051687c9d91fa 3172055c96fe9278ffff0bb71cdb7e8748e2ae57 vjedlicka <proficad@gmail.com> 1507015765 +0200	commit: started drawpiechord
+3172055c96fe9278ffff0bb71cdb7e8748e2ae57 48ae7a755c8ab2b260833e92f6e2624796b95d28 vjedlicka <proficad@gmail.com> 1508614488 +0200	commit: started arc pit chord
+48ae7a755c8ab2b260833e92f6e2624796b95d28 8240d2e830f6fbdd718b07850127555fc1051a34 vjedlicka <proficad@gmail.com> 1508616838 +0200	commit: arc ok !!!
+8240d2e830f6fbdd718b07850127555fc1051a34 f1fa3af2833c8a7c628e2d8a1eceb088ec6f6c8f vjedlicka <proficad@gmail.com> 1508618684 +0200	commit: pie and chord OK
+f1fa3af2833c8a7c628e2d8a1eceb088ec6f6c8f b1e65d087c9f97133d9dfd2377885e484b9de990 vjedlicka <proficad@gmail.com> 1508689913 +0200	commit: flip and rotate of symbols
+b1e65d087c9f97133d9dfd2377885e484b9de990 bc58703559aa77f37110cb2d001b1350a5e1b989 vjedlicka <proficad@gmail.com> 1508782202 +0200	commit: multi line text
+bc58703559aa77f37110cb2d001b1350a5e1b989 d6951d09fb7964a26785f06106995df7e3368c29 vjedlicka <proficad@gmail.com> 1508788451 +0200	commit: insert scale
+d6951d09fb7964a26785f06106995df7e3368c29 12fdb66ad56550dd1ae4b091d6e23bf8e47578cb vjedlicka <proficad@gmail.com> 1509087647 +0200	commit: before refact of multiline text
+12fdb66ad56550dd1ae4b091d6e23bf8e47578cb 60ada626f9888c0196fc6281747c3306a17c76c3 vjedlicka <proficad@gmail.com> 1509090530 +0200	commit: draw text sort of works
+60ada626f9888c0196fc6281747c3306a17c76c3 0e299fbd5e37c91d1ab5ba02253a404fcd92e8a8 vjedlicka <proficad@gmail.com> 1509106958 +0200	commit: draw satelites
+0e299fbd5e37c91d1ab5ba02253a404fcd92e8a8 78323fe39498b6c52828a05377537524f5169c1e vjedlicka <proficad@gmail.com> 1509546705 +0100	commit: draw satelites
+78323fe39498b6c52828a05377537524f5169c1e ffd3a432b8a210887b41bdcb0c6a905b915f1c20 vjedlicka <proficad@gmail.com> 1509562243 +0100	commit: free text
+ffd3a432b8a210887b41bdcb0c6a905b915f1c20 387030a680e77f21601ad1e846b4bcd74d2ba324 vjedlicka <proficad@gmail.com> 1509726206 +0100	commit: started IC
+387030a680e77f21601ad1e846b4bcd74d2ba324 07581096fee59ac976628bbed2ffbd6399c77ce4 vjedlicka <proficad@gmail.com> 1509818143 +0100	commit: added Draw_Text_Centered
+07581096fee59ac976628bbed2ffbd6399c77ce4 79bea11622769edf7f9de5dce4877ac8d255acc1 vjedlicka <proficad@gmail.com> 1509870267 +0100	commit: draw vertical edge of IC
+79bea11622769edf7f9de5dce4877ac8d255acc1 a61e47cb02f67921df27225a5eaea3088e7d31b9 vjedlicka <proficad@gmail.com> 1509909045 +0100	commit: ic otočný o 90 skoro funguje
+a61e47cb02f67921df27225a5eaea3088e7d31b9 9b7920c3e58677c9c6519b0d7d6f991e155e0fee vjedlicka <proficad@gmail.com> 1509958225 +0100	commit: trying to draw at any angle
+9b7920c3e58677c9c6519b0d7d6f991e155e0fee 41355267282d073fa1e99101126838fd3314ebab vjedlicka <proficad@gmail.com> 1509959236 +0100	commit: IC labels done
+41355267282d073fa1e99101126838fd3314ebab 0a987a42cc4e802aef3f87032dfe72ee4ecb5e6e vjedlicka <proficad@gmail.com> 1509960518 +0100	commit: dead code
+0a987a42cc4e802aef3f87032dfe72ee4ecb5e6e f3703c30a638ca8e1d838a5bd198af55dfffaa4d vjedlicka <proficad@gmail.com> 1510047611 +0100	commit: circles done
+f3703c30a638ca8e1d838a5bd198af55dfffaa4d f603550adb71113012ce20b86fda9bd7262cfce5 vjedlicka <proficad@gmail.com> 1510049694 +0100	commit: vertical separators
+f603550adb71113012ce20b86fda9bd7262cfce5 c995a9de9b46534228cfd456fd5485873e703eaf vjedlicka <proficad@gmail.com> 1510054785 +0100	commit: horiz separators done
+c995a9de9b46534228cfd456fd5485873e703eaf 9036e4de86af2b436e85fcb2d32b3d7583120eee vjedlicka <proficad@gmail.com> 1510062017 +0100	commit: dead code and stat anal
+9036e4de86af2b436e85fcb2d32b3d7583120eee c9ae02c27e87e6beb808c431d35bc48f813c637f vjedlicka <proficad@gmail.com> 1510072546 +0100	commit: added DrawerText
+c9ae02c27e87e6beb808c431d35bc48f813c637f 4563b2e959ddcb6bc0214fe07b860c44e8f4cd0f vjedlicka <proficad@gmail.com> 1510128349 +0100	commit: working on gates
+4563b2e959ddcb6bc0214fe07b860c44e8f4cd0f d52d277f1b900c3f9c1ca3e1d1415991d8e8df30 vjedlicka <proficad@gmail.com> 1510163084 +0100	commit: gates done
+d52d277f1b900c3f9c1ca3e1d1415991d8e8df30 a8a9c90ca575009f5f3f178d4c1e1607e2a0c4d7 vjedlicka <proficad@gmail.com> 1510169654 +0100	commit: added drawer trafo
+a8a9c90ca575009f5f3f178d4c1e1607e2a0c4d7 4e0872a9c79291db20bd297ea7405da839bbcb63 vjedlicka <proficad@gmail.com> 1510302477 +0100	commit: trafo done
+4e0872a9c79291db20bd297ea7405da839bbcb63 98d492fbbd69640171454af83ee37b9d51f412f9 vjedlicka <proficad@gmail.com> 1510329333 +0100	commit: assigning color to a_insert.m_objProps.m_logpen.m_color
+98d492fbbd69640171454af83ee37b9d51f412f9 9d7c04b584d20414023b33f41ee31f64f8e87561 vjedlicka <proficad@gmail.com> 1510344285 +0100	commit: added DrawerWire
+9d7c04b584d20414023b33f41ee31f64f8e87561 1fdd503ffd484dbcccca6f3f5fa25c8ae0b3bc1b vjedlicka <proficad@gmail.com> 1510408942 +0100	commit: started wire labels
+1fdd503ffd484dbcccca6f3f5fa25c8ae0b3bc1b ce101001b03a024a49ad97b7dfc5afc775265923 vjedlicka <proficad@gmail.com> 1510477640 +0100	commit: wire labels done
+ce101001b03a024a49ad97b7dfc5afc775265923 166c2a4531c6f963342ee3ffd4a7141adca6610a vjedlicka <proficad@gmail.com> 1510585914 +0100	commit: finished wire labels
+166c2a4531c6f963342ee3ffd4a7141adca6610a a9f7a067767865b7e037596f4cb855b3a1c2a4d1 vjedlicka <proficad@gmail.com> 1511377990 +0100	commit: wire link generating (but not finished
+a9f7a067767865b7e037596f4cb855b3a1c2a4d1 0ff05e0ee74b00adcba0f6b25ca9783ded406663 vjedlicka <proficad@gmail.com> 1511460832 +0100	commit: added frame
+0ff05e0ee74b00adcba0f6b25ca9783ded406663 931c3f9d6d0919a02ea8309a5aed31a2bc37ee28 vjedlicka <proficad@gmail.com> 1511552976 +0100	commit: added toolbar with menu
+931c3f9d6d0919a02ea8309a5aed31a2bc37ee28 836bfbb50c4803ca728531d43742588e7c308982 vjedlicka <proficad@gmail.com> 1511598323 +0100	commit: added LOP
+836bfbb50c4803ca728531d43742588e7c308982 a471a571f50188e06ff2d74ff43bf2bc0c9fb402 vjedlicka <proficad@gmail.com> 1511601456 +0100	commit: added about
+a471a571f50188e06ff2d74ff43bf2bc0c9fb402 33f240491a83c52b88040c1dc94d491303e0b3e3 vjedlicka <proficad@gmail.com> 1511606907 +0100	commit: moved m_doc to App class
+33f240491a83c52b88040c1dc94d491303e0b3e3 c18f59c5766b7a4a4be5615444d7fcb08df29894 vjedlicka <proficad@gmail.com> 1511611846 +0100	commit: fill LOP
+c18f59c5766b7a4a4be5615444d7fcb08df29894 411852e3f3a6205bc1953a142da05242d58c5af0 vjedlicka <proficad@gmail.com> 1511612739 +0100	commit: added multipage doc for dev
+411852e3f3a6205bc1953a142da05242d58c5af0 7cb0c91f56386061b7f308b4f7c650a5d9c1f67c vjedlicka <proficad@gmail.com> 1511618827 +0100	commit: draws current page
+7cb0c91f56386061b7f308b4f7c650a5d9c1f67c c044dbaea9d7c640c4051c4c1d757139ed9b39e1 vjedlicka <proficad@gmail.com> 1511705155 +0100	commit: kosmetika
+c044dbaea9d7c640c4051c4c1d757139ed9b39e1 f88b39d2f5863235c2349df9f033d126aa1601d9 vjedlicka <proficad@gmail.com> 1511794736 +0100	commit: added some text to about page
+f88b39d2f5863235c2349df9f033d126aa1601d9 1dc80adccbf4c5a457542f0ec275d79fa65546cc vjedlicka <proficad@gmail.com> 1511811920 +0100	commit: draw bitmap
+1dc80adccbf4c5a457542f0ec275d79fa65546cc bdbcbcc5c2d4d31f57812bf8ae12f91370f6cd23 vjedlicka <proficad@gmail.com> 1511814740 +0100	commit: rotated images
+bdbcbcc5c2d4d31f57812bf8ae12f91370f6cd23 7cee8eaefdb972f7d8329220448de62a0c9f8eed vjedlicka <proficad@gmail.com> 1511859480 +0100	commit: added caching of bitmap
+7cee8eaefdb972f7d8329220448de62a0c9f8eed cf215de9cdb6e1466ae7792562236adf60b467cc vjedlicka <proficad@gmail.com> 1511863792 +0100	commit: added hor ver for image
+cf215de9cdb6e1466ae7792562236adf60b467cc c6214af5a46f2cd905c29ad9a41cad32cb302e2f vjedlicka <proficad@gmail.com> 1511957154 +0100	commit: started arrows
+c6214af5a46f2cd905c29ad9a41cad32cb302e2f 6979ae6370612a8ffb9011123cf7ef784b408369 vjedlicka <proficad@gmail.com> 1511968877 +0100	commit: implementing arrows
+6979ae6370612a8ffb9011123cf7ef784b408369 1bf9e36966d4160a77d84d9ab17d433282fef7fd vjedlicka <proficad@gmail.com> 1511986587 +0100	commit: fixed arrows
+1bf9e36966d4160a77d84d9ab17d433282fef7fd fc7e4c0086b694a066e18ccac7bcb6fdc1cd4b05 vjedlicka <proficad@gmail.com> 1512045548 +0100	commit: added icons
+fc7e4c0086b694a066e18ccac7bcb6fdc1cd4b05 a59c70406d12cf8c368e7de91deb8cac58f8d232 vjedlicka <proficad@gmail.com> 1512074980 +0100	commit: added scale to fit
+a59c70406d12cf8c368e7de91deb8cac58f8d232 184eb1e1e5b8d4482eeadd8d4a1d178ec63d6224 vjedlicka <proficad@gmail.com> 1512075101 +0100	commit: to the previous commit
+184eb1e1e5b8d4482eeadd8d4a1d178ec63d6224 0febb8782cc1eda90fa3bfc882254662753c2ccb vjedlicka <proficad@gmail.com> 1512140412 +0100	commit: refact
+0febb8782cc1eda90fa3bfc882254662753c2ccb 974e114430863235b559c3c38f844f004e383e91 vjedlicka <proficad@gmail.com> 1512143715 +0100	commit: refact2
+974e114430863235b559c3c38f844f004e383e91 583f1025780a6afc678f6e08de1e65232e8ce5d2 vjedlicka <proficad@gmail.com> 1512144080 +0100	commit: pattern matching
+583f1025780a6afc678f6e08de1e65232e8ce5d2 75478cd7e3df0a83be379444277ed70bfd225012 vjedlicka <proficad@gmail.com> 1512144798 +0100	commit: dead code
+75478cd7e3df0a83be379444277ed70bfd225012 42a99e7e7ac3d0aee09e6b392bb17dde11c3fb17 vjedlicka <proficad@gmail.com> 1512202098 +0100	commit: show pages button only for multipage drawings
+42a99e7e7ac3d0aee09e6b392bb17dde11c3fb17 46ebc6891703561ad6b17cc253b449fd5b6a1a47 vjedlicka <proficad@gmail.com> 1512202934 +0100	commit: refact
+46ebc6891703561ad6b17cc253b449fd5b6a1a47 1e01081611615a84fdb903255c6d8344c31b5e87 vjedlicka <proficad@gmail.com> 1512230661 +0100	commit: fixed texts drawing
+1e01081611615a84fdb903255c6d8344c31b5e87 c6b6607ba12b1fad535c22ce9a66c22e09e4b181 vjedlicka <proficad@gmail.com> 1512252320 +0100	commit: fixed zoom to fit
+c6b6607ba12b1fad535c22ce9a66c22e09e4b181 409775d4dc0d0c2ea0a147a151195594823d39d2 vjedlicka <proficad@gmail.com> 1512396374 +0100	commit: draw cable
+409775d4dc0d0c2ea0a147a151195594823d39d2 14017898ebb98f2f72a33c4d3d420f1a261ca67f vjedlicka <proficad@gmail.com> 1512402350 +0100	commit: added about.html
+14017898ebb98f2f72a33c4d3d420f1a261ca67f bce551388c282f39a509796655a3d666f67d8c9d vjedlicka <proficad@gmail.com> 1512462751 +0100	commit: added html img and remove sample sxe s
+bce551388c282f39a509796655a3d666f67d8c9d f2044c986f37fb46c068cf24547b71abc64a92ce vjedlicka <proficad@gmail.com> 1512475901 +0100	commit: added VIEWER logo
+f2044c986f37fb46c068cf24547b71abc64a92ce 73ebf1f2582c1411e507e9b15ea8676ff39767ab vjedlicka <proficad@gmail.com> 1512495112 +0100	commit: upd about page
+73ebf1f2582c1411e507e9b15ea8676ff39767ab 797d00c67145e391af81f27bf3187d3ab6683713 vjedlicka <proficad@gmail.com> 1512547042 +0100	commit: added appcenter
+797d00c67145e391af81f27bf3187d3ab6683713 cc460ef4f8642ddac7e5c7049652aac0c2ef8823 vjedlicka <proficad@gmail.com> 1512550961 +0100	commit: dead code
+cc460ef4f8642ddac7e5c7049652aac0c2ef8823 0367ebec4369dab817ea81ef1154d7f65142fd27 vjedlicka <proficad@gmail.com> 1512555677 +0100	commit: started TB
+0367ebec4369dab817ea81ef1154d7f65142fd27 513ace3a2df655f3e47285e66e2ea5e7c39b7225 vjedlicka <proficad@gmail.com> 1512572148 +0100	commit: TB works
+513ace3a2df655f3e47285e66e2ea5e7c39b7225 d757d3440d61a3aa870d2cd4919e2bc7f337cc5e vjedlicka <proficad@gmail.com> 1512575024 +0100	commit: added resolvetext
+d757d3440d61a3aa870d2cd4919e2bc7f337cc5e e9d9184f4265a3d45922b70d4654a58a5b354b93 vjedlicka <proficad@gmail.com> 1512576544 +0100	commit: upd sample drawing
+e9d9184f4265a3d45922b70d4654a58a5b354b93 f795eaad0d71e9a92f260b9334002ab218a57f13 vjedlicka <proficad@gmail.com> 1512583112 +0100	commit: images in ppds and tbs
+f795eaad0d71e9a92f260b9334002ab218a57f13 496df40c64f789c462f48eedcd8af65c9acd8640 vjedlicka <proficad@gmail.com> 1512584868 +0100	commit: kosmetika
+496df40c64f789c462f48eedcd8af65c9acd8640 9336b9002468b678750da0dc90371733ef43edbf vjedlicka <proficad@gmail.com> 1513537461 +0100	commit: refact
+9336b9002468b678750da0dc90371733ef43edbf d6fcec89de43b7f611519a17e6c275bdb963fd5e vjedlicka <proficad@gmail.com> 1540533815 +0200	commit: added classes for ver 10
+d6fcec89de43b7f611519a17e6c275bdb963fd5e 912252cef6412c2a1a13c061a5386d259adef00a vjedlicka <proficad@gmail.com> 1540539799 +0200	commit: refact GetSize()
+912252cef6412c2a1a13c061a5386d259adef00a b68f807d03acddfe2606cc3ea6820c9f6ef127f9 vjedlicka <proficad@gmail.com> 1540541804 +0200	commit: added dims
+b68f807d03acddfe2606cc3ea6820c9f6ef127f9 d61bbe1698f13a4c526c2bb65ca4ae383ac23e6e vjedlicka <proficad@gmail.com> 1540572364 +0200	commit: drawing dims 1
+d61bbe1698f13a4c526c2bb65ca4ae383ac23e6e 0bfad74ffd73ecd5a5abeebb2e02c918f4048696 vjedlicka <proficad@gmail.com> 1540626991 +0200	commit: draw dim circle
+0bfad74ffd73ecd5a5abeebb2e02c918f4048696 269a9d7b6c375c113a87e61a63bddbe7e04ad563 vjedlicka <proficad@gmail.com> 1540653017 +0200	commit: added load of dim label
+269a9d7b6c375c113a87e61a63bddbe7e04ad563 55b5261ff2d04b732a55c428b035adaaec7d7cbc vjedlicka <proficad@gmail.com> 1540670220 +0200	commit: dim labels drawing
+55b5261ff2d04b732a55c428b035adaaec7d7cbc 08c695b864c31f46e0a151e6b23ed0ae1ad20e69 vjedlicka <proficad@gmail.com> 1540708819 +0100	commit: kosmetika
+08c695b864c31f46e0a151e6b23ed0ae1ad20e69 c236264ae659d58e072fd164b8eab47b5568a894 vjedlicka <proficad@gmail.com> 1540708838 +0100	commit: removing old useless GetSize()
+c236264ae659d58e072fd164b8eab47b5568a894 ef0f1f941aef044aaa7f5f19613aae1a7ec14e03 vjedlicka <proficad@gmail.com> 1540805328 +0100	commit: wire labels work, except strait wires
+ef0f1f941aef044aaa7f5f19613aae1a7ec14e03 69b4c8f48053e3f83a7900e549cfea406241fcb6 vjedlicka <proficad@gmail.com> 1541261604 +0100	commit: adding support for lG attribute
+69b4c8f48053e3f83a7900e549cfea406241fcb6 fdea1955483c2171e24111ec422123047a67c6e2 vjedlicka <proficad@gmail.com> 1541261634 +0100	commit: suport for wire label over wire
+fdea1955483c2171e24111ec422123047a67c6e2 443cc082e2997eb9687ab0a9659c328a64a780b5 vjedlicka <proficad@gmail.com> 1541268872 +0100	commit: fixed vertical label position
+443cc082e2997eb9687ab0a9659c328a64a780b5 2ae4fed8fa23dbc431f67b45059afd4aa80bf996 vjedlicka <proficad@gmail.com> 1541339150 +0100	commit: finished wire label background to hide the wire
+2ae4fed8fa23dbc431f67b45059afd4aa80bf996 527d9cd057c9a80826840a30a0a14abad11cdf9e vjedlicka <proficad@gmail.com> 1541345909 +0100	commit: fixed loading lG attrib
+527d9cd057c9a80826840a30a0a14abad11cdf9e 9bbcd29966a5259eccd26c546cc37b547a692728 vjedlicka <proficad@gmail.com> 1541487579 +0100	commit: merging some stuff from DxfNet
+9bbcd29966a5259eccd26c546cc37b547a692728 ac977ead6cfbc3b4b03fadc9979b3fa6a6db0276 vjedlicka <proficad@gmail.com> 1541503358 +0100	commit: added opaque parameter to Draw_Centered_Text
+ac977ead6cfbc3b4b03fadc9979b3fa6a6db0276 91f33132fbfc29ef2bde8aaac99f878f628368f4 vjedlicka <proficad@gmail.com> 1541503389 +0100	commit: added fallback for GetSize() so it is never empty
+91f33132fbfc29ef2bde8aaac99f878f628368f4 83732bf75a06965a177834e5f74a057a81bc2354 vjedlicka <proficad@gmail.com> 1541503408 +0100	commit: added version info to about page
+83732bf75a06965a177834e5f74a057a81bc2354 c44947a78cc6e2ea05514c64c9b8e3a61dc0ab5b vjedlicka <proficad@gmail.com> 1541574999 +0100	commit: removed coloured text background
+c44947a78cc6e2ea05514c64c9b8e3a61dc0ab5b 25e1d4898691420f9f8656a9bdad7f6939d0bdfa vjedlicka <proficad@gmail.com> 1541575108 +0100	commit: fixing page size
+25e1d4898691420f9f8656a9bdad7f6939d0bdfa 459701743771cfd74167839214250dd4bc5efdc4 vjedlicka <proficad@gmail.com> 1541780361 +0100	commit: added QPaperSize
+459701743771cfd74167839214250dd4bc5efdc4 85eef98ce9ad052862ccdf5c7bec243c146aa670 vjedlicka <proficad@gmail.com> 1541780401 +0100	commit: removed the tap to zoom
+85eef98ce9ad052862ccdf5c7bec243c146aa670 8e7a697c9c2cc3011429782738cdfee286707ab8 vjedlicka <proficad@gmail.com> 1541780525 +0100	commit: upd sample drawing
+8e7a697c9c2cc3011429782738cdfee286707ab8 6637ee5ce8974829df724bf26fdb9538cc018b69 vjedlicka <proficad@gmail.com> 1541787091 +0100	commit: added zoom 1:1 on third tap
+6637ee5ce8974829df724bf26fdb9538cc018b69 5f6c19bff7aa1320c03a161412d1f43f9aa25029 vjedlicka <proficad@gmail.com> 1541788147 +0100	commit: upd version to 1.1
+5f6c19bff7aa1320c03a161412d1f43f9aa25029 0f336c529d9266e7ccedeee7ed7f6526c23ce8fe vjedlicka <proficad@gmail.com> 1541873017 +0100	commit: fixing GetSize() for old formats
+0f336c529d9266e7ccedeee7ed7f6526c23ce8fe 2c905f33c35b0a24bceab6b1be33210bbdbf5829 vjedlicka <proficad@gmail.com> 1542012375 +0100	commit: added signed apk version 1.1
+2c905f33c35b0a24bceab6b1be33210bbdbf5829 c8f6bf287c0f28554bf116829865f829bf354396 vjedlicka <proficad@gmail.com> 1542309110 +0100	commit: added WPF project and nuget packages
+c8f6bf287c0f28554bf116829865f829bf354396 2960a14583ea049c04438d64b0f29b0302cbf006 vjedlicka <proficad@gmail.com> 1542355757 +0100	commit: pokus o zprovoznění wpf
+2960a14583ea049c04438d64b0f29b0302cbf006 3f39904a5d68da26aa569fabd8192f0a14184461 vjedlicka <proficad@gmail.com> 1542357640 +0100	commit: added paint handler for wpf
+3f39904a5d68da26aa569fabd8192f0a14184461 1e2aae660b49b5739c5f133dfbd23f94a80fb836 vjedlicka <proficad@gmail.com> 1542360409 +0100	commit: code loads and renders a SXE drawing
+1e2aae660b49b5739c5f133dfbd23f94a80fb836 8026428d3eb57aab45e62861aa05c94b7535833a vjedlicka <proficad@gmail.com> 1576654054 +0100	commit: added scrollviewer
+8026428d3eb57aab45e62861aa05c94b7535833a 4e86a12c56da497591e30a5ec474737f408fd506 vjedlicka <proficad@gmail.com> 1577632698 +0100	commit: added menu
+4e86a12c56da497591e30a5ec474737f408fd506 708e77ad9b0ee49256de730b69361b81cb873904 vjedlicka <proficad@gmail.com> 1577635265 +0100	commit: added menu item Refresh
+708e77ad9b0ee49256de730b69361b81cb873904 12cab42dbf5be678e454dc766fe38aebca7c70ba vjedlicka <proficad@gmail.com> 1577693431 +0100	commit: straight wire fixed label works
+12cab42dbf5be678e454dc766fe38aebca7c70ba 79b8115aa05578ff55549505995cebfcd4db8fdc vjedlicka <proficad@gmail.com> 1577703195 +0100	commit: end wire fixed label works
+79b8115aa05578ff55549505995cebfcd4db8fdc efcda58e6091e9a75815b3763e009f882ea3b653 vjedlicka <proficad@gmail.com> 1577703208 +0100	commit: komestika
+efcda58e6091e9a75815b3763e009f882ea3b653 6b3717828a0aba345f2694ad1761cbfa26620584 vjedlicka <proficad@gmail.com> 1577703225 +0100	commit: added WireLabelPos
+6b3717828a0aba345f2694ad1761cbfa26620584 a8e1c00583bc038b18916ee9add533a825bbc03a vjedlicka <proficad@gmail.com> 1577703276 +0100	commit: some wpf project changes
+a8e1c00583bc038b18916ee9add533a825bbc03a 15c845c8ed9c860dc4bad7db60c24d078fdd0bab vjedlicka <proficad@gmail.com> 1601730502 +0200	commit: added QCircle and it builds
+15c845c8ed9c860dc4bad7db60c24d078fdd0bab 26fa9995b2d67063321c5726b362fd266997a6f1 vjedlicka <proficad@gmail.com> 1608800404 +0100	commit: updated packages
+26fa9995b2d67063321c5726b362fd266997a6f1 693f7a1927649c4d3f85dfa3038796c4daf94fc6 vaclav <proficad@gmail.com> 1640599736 +0100	commit: some old changes
+693f7a1927649c4d3f85dfa3038796c4daf94fc6 5e3c5b331b7644a4dec68404a294508ab7d31b0f vaclav <proficad@gmail.com> 1640677125 +0100	commit: added double headed fileld arrow
+5e3c5b331b7644a4dec68404a294508ab7d31b0f 59dc8353c6df0b5adcf603b7dea125a8cd081477 vaclav <proficad@gmail.com> 1640677170 +0100	commit: fixed sample floor plan drawing
+59dc8353c6df0b5adcf603b7dea125a8cd081477 bf3aadf1f7e656b721df90d5741c4f3e81a04501 vaclav <proficad@gmail.com> 1640677267 +0100	commit: some changes
+bf3aadf1f7e656b721df90d5741c4f3e81a04501 8ad8dca510449c2925dd58965de6fb14b16bc5ed vaclav <proficad@gmail.com> 1640703255 +0100	commit: upd ver to 1.7
+8ad8dca510449c2925dd58965de6fb14b16bc5ed b718f23e15554d82bf00468482a19c41b2a1d0cc vaclav <proficad@gmail.com> 1692527311 +0200	commit: tried to fix errors
+b718f23e15554d82bf00468482a19c41b2a1d0cc ef518bbc1f204f44c63d7cf93f4b0ea67abc782a vaclav <proficad@gmail.com> 1692527675 +0200	commit (merge): Merge branch 'master' of https://proficad.visualstudio.com/DefaultCollection/_git/ProfiCAD%20Viewer
+ef518bbc1f204f44c63d7cf93f4b0ea67abc782a 821f4c409eeccf3efa000e21988f6f07e34be3a7 vaclav <proficad@gmail.com> 1692527796 +0200	commit: added ios
+821f4c409eeccf3efa000e21988f6f07e34be3a7 d40528cd54649a6fcb2d0b89dad519d08ffc3ad9 vaclav <proficad@gmail.com> 1692528643 +0200	commit: clean
+d40528cd54649a6fcb2d0b89dad519d08ffc3ad9 f2ec934c0a6a3a2f4aee7932acabdce4b182de14 vaclav <proficad@gmail.com> 1692531114 +0200	commit: fixing errors

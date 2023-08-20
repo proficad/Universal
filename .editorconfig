@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# S125: Sections of code should not be commented out
+dotnet_diagnostic.S125.severity = silent
+
+# S1104: Fields should not have public accessibility
+dotnet_diagnostic.S1104.severity = silent
+
+# S1128: Unused "using" should be removed
+dotnet_diagnostic.S1128.severity = silent

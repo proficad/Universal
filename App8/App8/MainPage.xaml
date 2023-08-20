@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+             xmlns:local="clr-namespace:App8"
+             x:Class="App8.MainPage">
+
+    
+    <skia:SKCanvasView x:Name="m_canvasView" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+
+    
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="About" Activated="OnClick" Order="Primary" Priority="1" CommandParameter="1"  >
+            Haha
+        </ToolbarItem>
+        <ToolbarItem x:Name="m_toolbar_item_pages" Name="Pages" Activated="OnClick" Order="Primary" Priority="0" >
+            Hihi
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+</ContentPage>
